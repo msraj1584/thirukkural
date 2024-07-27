@@ -16,8 +16,3 @@ The Tirukkuṛaḷ is a classic Tamil sangam literature consisting of 1330 coupl
 ### Please free to fork this and send pull request to add narratives and other details.
 
 ##
-
-### References
-
-* http://www.thirukkural.com/
-* http://www.gokulnath.com/thirukurals
